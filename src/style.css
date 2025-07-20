@@ -131,6 +131,7 @@ div#md-wrapper {
   border-top: none;
   border-radius: 20px;
   min-height: 100vh;
+  overflow: hidden;
 }
 
 div#markdown-box {
