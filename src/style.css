@@ -1,7 +1,43 @@
 :root {
+  --color-purple-hover: hsl(270, 80%, 25%);
+  --color-white: #fff;
+  --color-purple: hsl(270, 80%, 20%);
+  --color-purple-dark: hsl(270, 80%, 15%);
+  --font: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  --font-size: 24px;
+  --font-mono: "departure-mono";
+}
+
+@font-face {
+  font-family: "departure-mono";
+  src: url("/src/font/DepartureMono-Regular.woff2") format("woff2"),
+    url("/src/font/DepartureMono-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+::selection {
+  background-color: var(--color-green);
+  color: var(--color-green-light);
+}
+
+:focus-visible {
+  outline: 3px solid orange;
+  transition: outline 0.2s ease;
+  border-radius: inherit;
 }
 
 html {
+  font-size: var(--font-size);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: var(--font);
+  scrollbar-color: var(--color-purple) transparent;
+  scrollbar-width: 1px;
+  caret-color: orange;
+  height: 100%;
+  font-size: var(--font-size);
+  font-family: var(--font);
   background-color: black;
   color: white;
   margin: 0;
@@ -13,6 +49,7 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  line-height: 1.8;
 }
 
 div#markdown-box {
@@ -23,6 +60,8 @@ div#markdown-box {
 }
 
 p {
-  max-width: 70ch;
+  max-width: 65ch;
   hyphens: auto;
+  margin: 20px 0;
+  text-indent: 2em;
 }
