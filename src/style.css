@@ -142,11 +142,14 @@ div#markdown-box {
 }
 
 p {
-  max-width: 65ch;
+  max-width: 60ch;
   hyphens: auto;
   margin: 20px 0;
   text-indent: 2em;
+  line-height: 2rem;
   user-select: text;
+  font-size: 1rem;
+  font-family: sans-serif;
 }
 
 hr {
