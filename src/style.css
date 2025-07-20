@@ -124,7 +124,7 @@ div#md-wrapper {
   background: radial-gradient(
     circle at top,
     transparent,
-    hsla(var(--color-green-light-a), 0.1)
+    hsla(var(--color-green-light-a), 0.08)
   );
   padding-bottom: 50px;
   box-shadow: inset 0px -10px 25px -10px rgba(0, 0, 0, 0.6),
