@@ -105,7 +105,7 @@ html {
   font-size: var(--font-size);
   font-family: var(--font);
   background-color: #0f0f0f;
-  color: white;
+  color: rgb(200, 200, 200);
   margin: 0;
   padding: 0;
   box-sizing: border-box;
