@@ -114,6 +114,7 @@ html {
 body {
   margin: 0;
   padding: 12px;
+  padding-top: 5px;
   box-sizing: border-box;
   line-height: 1.8;
   user-select: text;
