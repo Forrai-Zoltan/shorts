@@ -2,6 +2,7 @@
   --color-purple-hover: hsl(270, 80%, 25%);
   --color-white: #fff;
   --color-purple: hsl(270, 80%, 20%);
+  --color-purple-hover: hsl(270, 80%, 25%);
   --color-purple-dark: hsl(270, 80%, 15%);
   --color-green: hsl(120, 30%, 13%);
   --color-green-light: hsl(120, 100%, 50%);
@@ -34,7 +35,7 @@ html {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-family: var(--font);
-  scrollbar-color: var(--color-green) transparent;
+  scrollbar-color: var(--color-purple-hover) transparent;
   scrollbar-width: 1px;
   caret-color: orange;
   height: 100%;
