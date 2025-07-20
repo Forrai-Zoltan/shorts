@@ -129,7 +129,7 @@ div#md-wrapper {
   padding-bottom: 50px;
   border: var(--glass-border);
   border-top: none;
-  border-radius: 20px;
+  border-radius: 0 0 20px 20px;
   min-height: 100vh;
   overflow: hidden;
 }
@@ -165,5 +165,4 @@ h1 {
   text-align: center;
   font-size: 3rem;
   margin: 0;
-
 }
