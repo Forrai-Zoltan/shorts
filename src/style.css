@@ -50,6 +50,7 @@ body {
   padding: 0;
   box-sizing: border-box;
   line-height: 1.8;
+  padding-bottom: 10px;
 }
 
 div#markdown-box {
@@ -72,5 +73,5 @@ hr {
   border-radius: 100%;
   max-width: 65ch;
   margin: 10px 0;
-  padding: 10px 0;
+
 }
