@@ -65,7 +65,7 @@ p {
   hyphens: auto;
   margin: 20px 0;
   text-indent: 2em;
-  user-select: all;
+  user-select: text;
 }
 
 hr {
