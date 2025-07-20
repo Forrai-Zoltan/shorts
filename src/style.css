@@ -1,4 +1,40 @@
 :root {
+  --color-gray-100: hsl(225, 40%, 98%);
+  --color-gray-150: hsl(225, 40%, 97%);
+  --color-gray-200: hsl(225, 40%, 96%);
+  --color-gray-250: hsl(225, 40%, 93%);
+  --color-gray-300: hsl(220, 29%, 90%);
+  --color-gray-350: hsl(220, 29%, 85%);
+  --color-gray-400: hsl(219, 20%, 80%);
+  --color-gray-450: hsl(219, 20%, 70%);
+  --color-gray-500: hsl(219, 10%, 60%);
+  --color-gray-550: hsl(219, 10%, 50%);
+  --color-gray-600: hsl(221, 8%, 40%);
+  --color-gray-650: hsl(221, 8%, 30%);
+  --color-gray-700: hsl(218, 8%, 20%);
+  --color-gray-750: hsl(218, 8%, 16%);
+  --color-gray-800: hsl(220, 5%, 12%);
+  --color-gray-850: hsl(220, 5%, 9%);
+  --color-gray-900: hsl(210, 6%, 7%);
+
+  --color-gray-100-a: 225, 40%, 98%;
+  --color-gray-150-a: 225, 40%, 97%;
+  --color-gray-200-a: 225, 40%, 96%;
+  --color-gray-250-a: 225, 40%, 93%;
+  --color-gray-300-a: 220, 29%, 90%;
+  --color-gray-350-a: 220, 29%, 85%;
+  --color-gray-400-a: 219, 20%, 80%;
+  --color-gray-450-a: 219, 20%, 70%;
+  --color-gray-500-a: 219, 10%, 60%;
+  --color-gray-550-a: 219, 10%, 50%;
+  --color-gray-600-a: 221, 8%, 40%;
+  --color-gray-650-a: 221, 8%, 30%;
+  --color-gray-700-a: 218, 8%, 20%;
+  --color-gray-750-a: 218, 8%, 16%;
+  --color-gray-800-a: 220, 5%, 12%;
+  --color-gray-850-a: 220, 5%, 9%;
+  --color-gray-900-a: 210, 6%, 7%;
+
   --color-white: #fff;
   --color-purple-hover: hsl(270, 80%, 25%);
   --color-purple: hsl(270, 80%, 20%);
@@ -73,7 +109,7 @@ p {
 }
 
 hr {
-  color: hsla(var(--color-gray-100-a), 0.4);
+  color: hsla(var(--color-gray-100-a), 0.2);
   border: 0.5px solid;
   border-radius: 100%;
   max-width: 65ch;
