@@ -51,6 +51,7 @@ body {
   box-sizing: border-box;
   line-height: 1.8;
   padding-bottom: 50px;
+  user-select: text;
 }
 
 div#markdown-box {
@@ -58,6 +59,7 @@ div#markdown-box {
   padding: 50px;
   margin-inline: auto;
   max-width: max-content;
+  user-select: text;
 }
 
 p {
