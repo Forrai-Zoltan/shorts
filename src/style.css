@@ -13,10 +13,16 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  overflow: hidden;
 }
 
 div#markdown-box {
   margin: 0 auto;
   padding: 50px;
+  margin-inline: auto;
+  max-width: max-content;
+}
+
+p {
+  max-width: 70ch;
+  hyphens: auto;
 }
