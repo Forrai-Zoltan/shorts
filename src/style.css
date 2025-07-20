@@ -65,3 +65,9 @@ p {
   margin: 20px 0;
   text-indent: 2em;
 }
+
+hr {
+  color: hsla(var(--color-gray-100-a), 0.4);
+  border: 0.5px solid;
+  border-radius: 100%;
+}
