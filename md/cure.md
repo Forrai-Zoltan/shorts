@@ -1,6 +1,3 @@
----
----
-
 # The Cure
 
 It was a late Friday night, and I could not fall asleep. Fat raindrops knocked
