@@ -75,6 +75,7 @@ div#nav-back {
   transition: width 0.3s ease;
   display: flex;
   align-items: center;
+  transition: padding-right 0.2s ease;
 }
 
 div#nav-back span#nav-back-span {

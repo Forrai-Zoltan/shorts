@@ -130,6 +130,7 @@ div#md-wrapper {
   box-shadow: inset 0px -10px 25px -10px rgba(0, 0, 0, 0.6),
     inset 0px 15px 20px -10px rgba(0, 0, 0, 0.8);
   border: var(--glass-border);
+  border-top: none;
   border-radius: 20px;
   min-height: 100vh;
 }
