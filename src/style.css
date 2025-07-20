@@ -120,14 +120,6 @@ body {
   user-select: text;
 }
 
-div#markdown-box {
-  margin: 0 auto;
-  padding: 50px;
-  margin-inline: auto;
-  max-width: max-content;
-  user-select: text;
-}
-
 div#md-wrapper {
   background: radial-gradient(
     circle at top,
@@ -139,6 +131,15 @@ div#md-wrapper {
     inset 0px 15px 20px -10px rgba(0, 0, 0, 0.8);
   border: var(--glass-border);
   border-radius: 20px;
+  min-height: 100vh;
+}
+
+div#markdown-box {
+  margin: 0 auto;
+  padding: 50px;
+  margin-inline: auto;
+  max-width: max-content;
+  user-select: text;
 }
 
 p {
