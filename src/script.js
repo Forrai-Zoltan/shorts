@@ -8,7 +8,17 @@ function loadMarkdownFromHash() {
       return res.text();
     })
     .then((md) => {
-      document.getElementById("markdown-box").innerHTML = marked.parse(md);
+      const html = marked.parse(md);
+      document.getElementById("markdown-box").innerHTML = html;
+
+      // Use the rendered DOM directly
+      const firstH1 = document.querySelector("#markdown-box h1");
+      if (firstH1) {
+        document.title = firstH1.textContent.trim();
+        console.log("Page title set to:", document.title);
+      } else {
+        console.warn("No <h1> found in markdown.");
+      }
     })
     .catch(() => {
       window.location.href = "https://forrai-zoltan.github.io/404";
