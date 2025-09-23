@@ -1,10 +1,3 @@
-
-const favicon = document.createElement("link");
-favicon.rel = "icon";
-favicon.type = "image/avif";
-favicon.href = "/cdn/media/img/compressed/socrates-middle-finger.avif";
-document.head.appendChild(favicon);
-
 function loadMarkdownFromHash() {
   const slug = location.hash.slice(1) || "home"; // fallback to home
   const file = `md/${slug}.md`;
