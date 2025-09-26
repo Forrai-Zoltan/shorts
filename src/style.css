@@ -62,6 +62,7 @@ div#markdown-box {
 p {
   max-width: 60ch;
   hyphens: auto;
+  text-wrap: pretty;
   margin: 20px 0;
   text-indent: 2em;
   line-height: 2.5rem;
