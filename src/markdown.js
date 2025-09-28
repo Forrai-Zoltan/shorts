@@ -1,6 +1,6 @@
 function loadMarkdownFromHash() {
   const slug = location.hash.slice(1) || "home"; // fallback to home
-  const file = `md/${slug}.md`;
+  const file = `/literary/shorts/md/${slug}.md`;
 
   fetch(file)
     .then((res) => {
@@ -19,10 +19,10 @@ function loadMarkdownFromHash() {
       } else {
         console.warn("No <h1> found in markdown.");
       }
-    })
-    .catch(() => {
-      window.location.href = "https://forrai-zoltan.github.io/404";
     });
+  //.catch(() => {
+  //  window.location.href = "https://forrai-zoltan.github.io/404";
+  //});
 }
 
 window.addEventListener("hashchange", loadMarkdownFromHash);
