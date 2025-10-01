@@ -113,8 +113,9 @@ h1 {
   }
 
   #markdown-box p {
-    text-indent: 25px;
+    text-indent: 0;
     font-size: 0.8rem;
+    line-height: 2rem;
   }
 
   a#navigate-back-a {
