@@ -1,3 +1,17 @@
+@media only screen and (max-width: 480px) {
+  @keyframes fadein {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 1;
+    }
+  }
+  .fogwrapper {
+    z-index: 9999;
+  }
+}
+
 /* ---------- Fog ---------- */
 .fogwrapper {
   opacity: 0;
@@ -12,6 +26,7 @@
   animation: fadein 5s ease-in forwards;
   animation-delay: 0.5s;
 }
+
 @keyframes fadein {
   0% {
     opacity: 0;
