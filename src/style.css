@@ -89,7 +89,6 @@ h1 {
   h1 {
     font-size: clamp(1.5rem, 7vw, 6rem);
     padding-top: 50px;
-
   }
 
   div#md-wrapper {
@@ -131,6 +130,6 @@ h1 {
 
   a#navigate-back-a:hover div#nav-back,
   a#navigate-back-a:focus-visible div#nav-back {
-    padding-right: 0;
+    padding-right: 0 !important;
   }
 }
