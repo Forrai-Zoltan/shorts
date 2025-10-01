@@ -94,7 +94,7 @@ h1 {
     background: radial-gradient(
       circle at top,
       transparent,
-      hsla(var(--color-green-light-a), 0.08)
+      hsla(var(--color-green-light-a), 0.06)
     );
   }
 
