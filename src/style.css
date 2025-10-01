@@ -90,6 +90,14 @@ h1 {
     font-size: clamp(1.5rem, 7vw, 6rem);
   }
 
+  div#md-wrapper {
+    background: radial-gradient(
+      circle at top,
+      transparent,
+      hsla(var(--color-green-light-a), 0.1)
+    );
+  }
+
   a#navigate-back-a {
     position: fixed;
     padding-right: 70px;
@@ -105,10 +113,8 @@ h1 {
   }
 
   #markdown-box p {
-  text-indent: 25px;
-  font-size: 0.8rem;
-
-
+    text-indent: 25px;
+    font-size: 0.8rem;
   }
 
   a#navigate-back-a {
