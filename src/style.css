@@ -1,5 +1,5 @@
 ::selection {
-  background-color: var(--color-green-m);
+  background-color: hsl(120, 85%, 20%);;
   color: var(--color-green-light);
 }
 
