@@ -1,5 +1,5 @@
 ::selection {
-  background-color: hsl(120, 85%, 20%);;
+  background-color: hsl(120, 85%, 20%);
   color: var(--color-green-light);
 }
 
@@ -144,4 +144,6 @@ h1 {
 
 blockquote {
   color: var(--color-gray-400);
+  text-indent: 0;
+  border-left: 2px var(--color-gray-400) solid;
 }
