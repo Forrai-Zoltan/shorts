@@ -141,3 +141,7 @@ h1 {
   font-family: var(--font-mono);
   font-size: var(--font-size);
 }
+
+blockquote {
+  color: var(--color-gray-400);
+}
