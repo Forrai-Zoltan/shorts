@@ -97,7 +97,7 @@ h1 {
 blockquote {
   color: var(--color-gray-400);
   text-indent: 0;
-  padding-left: 5px;
+  padding-left: 10px;
   margin-left: 5px;
   border-left: 3px var(--color-gray-400) solid;
 
@@ -166,7 +166,7 @@ blockquote {
   blockquote {
     color: var(--color-gray-400);
     text-indent: 0;
-    padding-left: 5px;
+    padding-left: 10px;
     margin-left: 5px;
     border-left: 3px var(--color-gray-400) solid;
   }
