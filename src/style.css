@@ -147,4 +147,8 @@ blockquote {
   color: var(--color-gray-400);
   text-indent: 0;
   border-left: 2px var(--color-gray-400) solid;
+
+  p {
+    text-indent: 0;
+  }
 }
