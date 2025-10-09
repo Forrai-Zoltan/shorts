@@ -85,6 +85,27 @@ h1 {
   margin: 0;
 }
 
+.warning {
+  background-color: yellow;
+  color: black;
+  text-align: center;
+  font-family: var(--font-mono);
+  font-size: var(--font-size);
+  max-width: 60ch;
+}
+
+blockquote {
+  color: var(--color-gray-400);
+  text-indent: 0;
+  padding-left: 5px;
+  margin-left: 5px;
+  border-left: 3px var(--color-gray-400) solid;
+
+  p {
+    text-indent: 0;
+  }
+}
+
 @media only screen and (max-width: 700px) {
   h1 {
     font-size: clamp(1.5rem, 7vw, 6rem);
@@ -132,25 +153,24 @@ h1 {
   a#navigate-back-a:focus-visible div#nav-back {
     padding-right: 0 !important;
   }
-}
 
-.warning {
-  background-color: yellow;
-  color: black;
-  text-align: center;
-  font-family: var(--font-mono);
-  font-size: var(--font-size);
-  max-width: 60ch;
-}
+  .warning {
+    background-color: yellow;
+    color: black;
+    text-align: center;
+    font-family: var(--font-mono);
+    font-size: var(--font-size);
+    max-width: 60ch;
+  }
 
-blockquote {
-  color: var(--color-gray-400);
-  text-indent: 0;
-  padding-left: 5px;
-  margin-left: 5px;
-  border-left: 3px var(--color-gray-400) solid;
-
-  p {
+  blockquote {
+    color: var(--color-gray-400);
+    text-indent: 0;
+    padding-left: 5px;
+    margin-left: 5px;
+    border-left: 3px var(--color-gray-400) solid;
+  }
+  blockquote p {
     text-indent: 0;
   }
 }
