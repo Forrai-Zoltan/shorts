@@ -2,8 +2,8 @@
 
 <div class="warning">This story is still bein written. Prose is difficult.</div>
 
-> *"Vagrants and dicers speak of a stone,*
-> *hidden somewhere up in the north,*
+> *"Vagrants and dicers speak of a stone,*  
+> *hidden somewhere up in the north,*  
 > *that molds its master into a king..."*
 
 
