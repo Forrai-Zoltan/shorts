@@ -1,6 +1,6 @@
 # Befitting
 
-<div class="warning">This story is still bein written. Prose is difficult.</div>
+<div class="warning">This story is still being written. Prose is difficult.</div>
 
 > *"Vagrants and dicers speak of a stone,*  
 > *hidden somewhere up in the north,*  
