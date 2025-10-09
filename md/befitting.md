@@ -20,6 +20,6 @@ Salted stale water filled his mouth and he had to spit it out.
 He cursed, put the flask away and continued climbing.
 His muscles strained and tore as he stretched to reach a bit of stone above his head.
 First a few fingers, then he grabbed it with his hand.
-The sharp, jagged edge of the white granite cleaved into his skin and he left a bloodied trail of red handprints on the otherwise pale stone. 
+The sharp, jagged edge of the white granite cleaved into his skin and as he scaled he left a bloodied trail of red handprints on the otherwise pale stone. 
 And as he reached the summit he dragged himself up onto the plateau and rolled over onto his back. 
 
