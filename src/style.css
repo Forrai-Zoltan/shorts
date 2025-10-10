@@ -85,13 +85,21 @@ h1 {
   margin: 0;
 }
 
-.warning {
-  background-color: yellow;
-  color: black;
-  text-align: center;
-  font-family: var(--font-mono);
-  font-size: var(--font-size);
-  max-width: 60ch;
+.tape {
+  display: inline-block;
+  padding: 18px 28px;
+  font-weight: 900;
+  font-size: 1.3rem;
+  text-transform: uppercase;
+  border-radius: 4px;
+  color: white;
+  text-shadow: 2px 0 black, -2px 0 black, 0 2px black, 0 -2px black,
+    1px 1px black, -1px -1px black, 1px -1px black, -1px 1px black;
+  background-image: repeating-linear-gradient(
+    -45deg,
+    #ffdd00 0 20px,
+    #111 20px 40px
+  );
 }
 
 blockquote {
@@ -172,5 +180,22 @@ blockquote {
   }
   blockquote p {
     text-indent: 0;
+  }
+
+  .tape {
+    display: inline-block;
+    padding: 18px 28px;
+    font-weight: 900;
+    font-size: 1.3rem;
+    text-transform: uppercase;
+    border-radius: 4px;
+    color: white;
+    text-shadow: 2px 0 black, -2px 0 black, 0 2px black, 0 -2px black,
+      1px 1px black, -1px -1px black, 1px -1px black, -1px 1px black;
+    background-image: repeating-linear-gradient(
+      -45deg,
+      #ffdd00 0 20px,
+      #111 20px 40px
+    );
   }
 }
