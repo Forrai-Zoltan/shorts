@@ -91,9 +91,8 @@ h1 {
   font-size: var(--font-size);
   max-width: 60ch;
   display: inline-block;
-  padding: 0 auto;
+  padding: 0 20px;
   font-weight: 900;
-  text-transform: uppercase;
   border-radius: 4px;
   color: white;
   text-shadow: 2px 0 black, -2px 0 black, 0 2px black, 0 -2px black,
