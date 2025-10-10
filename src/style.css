@@ -98,8 +98,8 @@ h1 {
     1px 1px black, -1px -1px black, 1px -1px black, -1px 1px black;
   background-image: repeating-linear-gradient(
     -45deg,
-    #ffdd00 0 20px,
-    #111 20px 40px
+    hsla(52, 100%, 50%, 0.7) 0 20px,
+      hsla(0, 0%, 7%, 0.8) 20px 40px
   );
 }
 
@@ -176,8 +176,8 @@ blockquote {
       1px 1px black, -1px -1px black, 1px -1px black, -1px 1px black;
     background-image: repeating-linear-gradient(
       -45deg,
-      #ffdd00 0 20px,
-      #111 20px 40px
+      hsla(52, 100%, 50%, 0.7) 0 20px,
+      hsla(0, 0%, 7%, 0.8) 20px 40px
     );
   }
 
