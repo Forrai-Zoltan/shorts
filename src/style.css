@@ -89,7 +89,7 @@ h1 {
   text-align: center;
   font-family: var(--font-mono);
   font-size: var(--font-size);
-  max-width: 40ch;
+  max-width: 50ch;
   padding: 0 20px;
   border-radius: 4px;
   color: white;
@@ -167,7 +167,7 @@ blockquote {
     text-align: center;
     font-family: var(--font-mono);
     font-size: var(--font-size);
-    max-width: 60ch;
+    max-width: 50ch;
     padding: 0 20px;
     border-radius: 4px;
     color: white;
@@ -176,8 +176,8 @@ blockquote {
       1px 1px black, -1px -1px black, 1px -1px black, -1px 1px black;
     background-image: repeating-linear-gradient(
       -45deg,
-      hsla(52, 100%, 50%, 0.7) 0 20px,
-      hsla(0, 0%, 7%, 0.8) 20px 40px
+      hsla(52, 100%, 50%, 0.5) 0 20px,
+      hsla(0, 0%, 7%, 0.5) 20px 40px
     );
   }
 
