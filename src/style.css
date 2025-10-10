@@ -168,13 +168,10 @@ blockquote {
     font-family: var(--font-mono);
     font-size: var(--font-size);
     max-width: 60ch;
-    display: inline-block;
-    padding: 18px 28px;
-    font-weight: 900;
-    font-size: 1.3rem;
-    text-transform: uppercase;
+    padding: 0 20px;
     border-radius: 4px;
     color: white;
+    -webkit-text-stroke: 0.5px white;
     text-shadow: 2px 0 black, -2px 0 black, 0 2px black, 0 -2px black,
       1px 1px black, -1px -1px black, 1px -1px black, -1px 1px black;
     background-image: repeating-linear-gradient(
