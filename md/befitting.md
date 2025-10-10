@@ -23,4 +23,4 @@ First a few fingers, then he grabbed it with his hand.
 The sharp, jagged edge of the white granite cleaved into his skin and as he scaled he left a bloodied trail of red handprints on the otherwise pale stone. 
 And as he reached the summit he dragged himself up onto the plateau and rolled over onto his back. 
 
-<div class="tape">The text below is a rough draft. Read at your own peril.</div>
+
