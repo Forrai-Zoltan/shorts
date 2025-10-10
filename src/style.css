@@ -86,6 +86,10 @@ h1 {
 }
 
 .tape {
+  text-align: center;
+  font-family: var(--font-mono);
+  font-size: var(--font-size);
+  max-width: 60ch;
   display: inline-block;
   padding: 18px 28px;
   font-weight: 900;
@@ -162,27 +166,11 @@ blockquote {
     padding-right: 0 !important;
   }
 
-  .warning {
-    background-color: yellow;
-    color: black;
+  .tape {
     text-align: center;
     font-family: var(--font-mono);
     font-size: var(--font-size);
     max-width: 60ch;
-  }
-
-  blockquote {
-    color: var(--color-gray-400);
-    text-indent: 0;
-    padding-left: 10px;
-    margin-left: 5px;
-    border-left: 3px var(--color-gray-400) solid;
-  }
-  blockquote p {
-    text-indent: 0;
-  }
-
-  .tape {
     display: inline-block;
     padding: 18px 28px;
     font-weight: 900;
@@ -197,5 +185,16 @@ blockquote {
       #ffdd00 0 20px,
       #111 20px 40px
     );
+  }
+
+  blockquote {
+    color: var(--color-gray-400);
+    text-indent: 0;
+    padding-left: 10px;
+    margin-left: 5px;
+    border-left: 3px var(--color-gray-400) solid;
+  }
+  blockquote p {
+    text-indent: 0;
   }
 }
