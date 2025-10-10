@@ -88,8 +88,8 @@ h1 {
 .tape {
   text-align: center;
   font-family: var(--font-mono);
-  font-size: var(--font-size);
-  max-width: 50ch;
+  font-size: 0.9rem;
+  max-width: 55ch;
   padding: 0 20px;
   border-radius: 4px;
   color: white;
@@ -166,8 +166,8 @@ blockquote {
   .tape {
     text-align: center;
     font-family: var(--font-mono);
-    font-size: var(--font-size);
-    max-width: 50ch;
+    font-size: 0.9rem;
+    max-width: 55ch;
     padding: 0 20px;
     border-radius: 4px;
     color: white;
