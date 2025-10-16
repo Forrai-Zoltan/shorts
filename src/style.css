@@ -111,6 +111,7 @@ blockquote {
   border-left: 3px var(--color-gray-400) solid;
 
   p {
+    font-size: 0.95rem;
     text-indent: 0;
     line-height: 2rem;
   }

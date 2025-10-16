@@ -52,7 +52,7 @@ Empty sockets watched his every flinch, lips of naked teeth scorned him with uns
 
 
 
-<div class="tape">Warning: Rough prose below! Read at your own risk.<br>This is my typed up first draft. Expect typos and nonsense.</div>
+<div class="tape">Warning: Rough prose below! Read at your own risk.<br>This is my typed up first draft.<br>Expect typos and nonsense.</div>
 
 
 He lept towards one of the dark figures and with one dextreous swoop he choped its head off, which almost flew off but the tight hood catced it.
