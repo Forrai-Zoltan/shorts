@@ -50,7 +50,9 @@ Empty sockets watched his every flinch, lips of naked teeth scorned him with uns
 
 ------
 
-<div class="tape">Warning: Rough prose below! </div>
+
+
+<div class="tape">Warning: Rough prose below! Read at your own risk.<br>This is my typed up first draft. Expect typos and nonsense.</div>
 
 
 He lept towards one of the dark figures and with one dextreous swoop he choped its head off, which almost flew off but the tight hood catced it.
@@ -81,6 +83,6 @@ He circled around and hid behind the pillars.
 Just as the skeletons enteredhe gave the pillar a shove and the burning liquid covered the two creatures, setting them ablaze.
 They contorted and twisted and gave a frighful howl until the cloth fully burned up and nothing left just ash covered burnt bones falling to the ground.
 He watched them burn, making sure they won't get up again before looking around.
-He sits down to eat an apple.
+He sat down to eat an apple.
 
-*To be continued... (Come back later!)*
+
