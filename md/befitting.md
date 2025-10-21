@@ -25,26 +25,47 @@ He wheezed for a while before getting up onto two feet but he almost collapsed a
 About a good fifty yards from him and the edge of the cliff a dark temple or tomb rose towards the sky, towering over the plateau.
 It made not a pitiful attempt to seem like it belonged to its environment.
 Its ebony bricks were so out of place among the peak's white granite, it looked as if the structure grew right out of the Abyss. 
-The black stone drank the vigorous blaze of the sun and it ravenously gorged and devoured all the light that dared touch it.
+The black stone drank the vigorous blaze of the sun and it gorged on all the light that dared touch it.
 Pale alone were the sun bleached skulls adorning the lintel of the gaping entrance.
 He drew his axe from his belt, and slowly and warily marched towards the ziggurat.
-A familiar stench of rot and decay vexed his senses and he stopped when he realised he had been watched.
+The wind turned colder and a familiar stench of rot and decay vexed his senses.
+He stopped in his track when he realised he had been watched.
 
 Two tall figures cloaked in dark velvets emerged from the opening.
 They carried massive cleaver-like blades that glinted sharply in the strong sunlight.
 He raised his weapon and girded himself for the likely clash.
 And as they shambled closer he could make out their features. 
 He recoiled a few steps and cringed at the two horrific visages.
-What he first believed to be cloth was a cloak made of a blanket of decomposing flesh and skin which wrapped itself tightly around the gaunt figures.
-It looked as if their once human skin were flayed and then draped over them once again, dressed in their own agony, such a mockery of the living.
+What he first believed to be cloth was a cloak made of decomposing flesh and skin which wrapped itself tightly around the gaunt figures.
+It looked as if their once human skin were flayed and then draped over them once again, dressed in their own agony!
+What a mockery of the living!
 A long slit-like opening in the front revealed the skeletal structure under the decaying skin. 
 Empty sockets watched his every flinch, lips of naked teeth scorned him with unsaid words.
 
+Dark clouds gathered on the horizon and the growl of distant thunder echoed the beat of his erratic heart. 
+Out of disgust or fear, like a crossbow shot, he rushed at the shambling husk nearest. 
+He had no time to curse or think; with the quickness of the wicked, the creature's cold blade skimmed his skin and it nearly left him flayed. 
+
+He weaved out of the attack and with the motion circled around the creature.
 
 
 
 
 
+
+ 
+
+
+- he doges and attack, near miss
+- he jumps to reach the creatures head, he only reaches the neck
+- he feels the axe's weight in his arm, (centrifugal force)
+- he feels the sudden stop as he hits the creature (maybe explain how cutting with an axe works?)
+- Loud sound!
+- The creatures neck is completely shattered, severed
+- its head snaps back limply but the hood doesn't let it fall.
+
+
+bitter tasting words
 
 
 
@@ -55,7 +76,9 @@ Empty sockets watched his every flinch, lips of naked teeth scorned him with uns
 <div class="tape">Warning: Rough prose below! Read at your own risk.<br>This is my typed up first draft.<br>Expect typos and nonsense.</div>
 
 
-He lept towards one of the dark figures and with one dextreous swoop he choped its head off, which almost flew off but the tight hood catced it.
+
+
+
 The second creature charged at him.
 He broke its arm and it held its clearver limply.
 With a quick turn he separated the torso form its legs without much resistance. 
