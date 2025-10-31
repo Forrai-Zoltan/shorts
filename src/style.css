@@ -9,6 +9,11 @@
   border-radius: inherit;
 }
 
+* {
+  user-select: none;
+  -webkit-user-select: none !important; /* Safari */
+}
+
 html {
   font-size: var(--font-size);
   -webkit-font-smoothing: antialiased;
@@ -34,7 +39,6 @@ body {
   padding-top: 0px;
   box-sizing: border-box;
   line-height: 1.8;
-  user-select: text;
 }
 
 div#md-wrapper {
@@ -144,9 +148,6 @@ blockquote {
     text-indent: 0;
     font-size: 0.8rem;
     line-height: 2rem;
-  }
-
-  a#navigate-back-a {
   }
 
   a#navigate-back-a img {
