@@ -42,4 +42,12 @@
   </body>
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <script src="/literary/shorts/src/markdown.js"></script>
+  <script>
+    document.addEventListener('keydown', function (e) {
+      if ((e.ctrlKey || e.metaKey) && e.key === 'p') {
+        e.preventDefault();
+        alert('Printing is disabled on this site.');
+      }
+    });
+  </script>
 </html>
