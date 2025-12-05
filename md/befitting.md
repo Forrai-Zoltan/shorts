@@ -9,6 +9,7 @@
 The hateful scorch of the midday sun seared his bare skin dry, and the arid wind parched his lips and cracked his hide.
 Loose rocks fell as he fixed his footing on a narrow ledge sticking out of the steep cliffside, just barely enough for a couple of toes.
 He adjusted his weight to free one hand and as he did the tiny outcrop he held onto just moments ago fell into the depths, caught by the juniper bosk below.
+
 After making sure he would not fall, he took a waterskin from his belt and raised it hastily to his lips.
 Empty.
 Not one miserable drop.
@@ -16,10 +17,11 @@ He reached for another jug, one he had pinched from a cleric on his way to the f
 He uncorked it with his teeth and took a swing from what he thought would be a spirit.
 Salted, stale water filled his mouth and he had to spit it out.
 He cursed, put the flask away and continued climbing.
+
 His muscles strained and tore as he stretched to reach a bit of stone above his head.
 First a few fingers, then he grabbed it with his hand.
 The sharp, jagged edge of the white granite cleaved into his skin and as he scaled he left a bloodied trail of red handprints on the otherwise pale stone.
-And as he reached the summit he dragged himself up onto the plateau and with a heavy gasp rolled over onto his back.
+When he reached the summit he dragged himself up onto the plateau and with a heavy gasp rolled over onto his back.
 
 He wheezed for a while before getting up onto two feet but he almost collapsed again when he glimpsed the vile structure.
 About a good fifty yards from him and the edge of the cliff a dark temple or tomb rose towards the sky, towering over the plateau.
@@ -51,7 +53,7 @@ He weaved out of the attack in the last second and following the motion he quick
 - he doges and attack, near miss
 - he jumps to reach the creatures head, he only reaches the neck
 - he feels the axe's weight in his arm, (centrifugal force)
-- he feels the sudden stop as he hits the creature (maybe explain how cutting with an axe works?)
+- he feels the sudden stop as he hits the creature 
 - Loud sound!
 - The creatures neck is completely shattered, severed
 - its head snaps back limply but the hood doesn't let it fall.
